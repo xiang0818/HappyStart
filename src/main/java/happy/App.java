@@ -1,4 +1,4 @@
-package Happy;
+package happy;
 
 /**
  * Hello world!
