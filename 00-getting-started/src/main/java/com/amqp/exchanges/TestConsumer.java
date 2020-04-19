@@ -1,6 +1,7 @@
 package com.amqp.exchanges;
 
 import com.amqp.basic.queue.CommonConfigs;
+import com.rabbitmq.client.*;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;

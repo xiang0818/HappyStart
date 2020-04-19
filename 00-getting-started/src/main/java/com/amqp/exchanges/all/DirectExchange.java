@@ -1,5 +1,8 @@
 package com.amqp.exchanges.all;
 
+import com.rabbitmq.client.BuiltinExchangeType;
+import com.rabbitmq.client.Channel;
+
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
